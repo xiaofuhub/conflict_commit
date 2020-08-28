@@ -3,6 +3,6 @@ Save Format v3.0(19990112)
  0 "genapp.pbt";
  1 "genapp1.pbt";
 @end;
-DefaultTarget "genapp1.pbt";
+DefaultTarget "genapp.pbt";
 DefaultExportEncode "UTF-8";
-DefaultRemoteTarget "genapp1.pbt";
+DefaultRemoteTarget "genapp.pbt";
