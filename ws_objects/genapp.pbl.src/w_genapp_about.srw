@@ -38,8 +38,8 @@ destroy(this.st_copyright)
 end on
 
 type cb_ok from commandbutton within w_genapp_about
-integer x = 407
-integer y = 348
+integer x = 699
+integer y = 360
 integer width = 334
 integer height = 88
 integer taborder = 10
