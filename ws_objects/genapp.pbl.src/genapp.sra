@@ -61,7 +61,7 @@ If lnv_connectserv.of_ConnectDB ( ) = 0 Then
 End if
 
 Destroy lnv_connectserv
-//mmmm
+//
 end event
 
 event close;//*-----------------------------------------------------------------*/
